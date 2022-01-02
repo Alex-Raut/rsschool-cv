@@ -1,0 +1,8 @@
+img {
+    width: 300px;
+    height: 180px; /* Ширина и высота */
+    border-radius: 50%;
+}
+h2{
+    color: blue;
+}
