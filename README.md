@@ -1,1 +1,1 @@
-https://github.com/Alex-Raut/rsschool-cv/blob/gh-pages/cv.md
+https://Alex-Raut.github.io/rsschool-cv/
